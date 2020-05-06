@@ -1,0 +1,15 @@
+query Me {
+  me {
+    id
+    title
+    description
+    firstname
+    lastname
+    email
+    gender
+    github
+    linkedin
+    phone
+    phoneAlt
+  }
+}
